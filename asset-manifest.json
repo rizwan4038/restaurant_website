@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/restaurant_website/static/js/main.1ac7585a.js",
+    "static/media/menu.png": "/restaurant_website/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/mutton.png": "/restaurant_website/static/media/mutton.8677a63f7434cf5fbad6.png",
+    "static/media/about.png": "/restaurant_website/static/media/about.f4a49647a5515c3f71be.png",
+    "static/media/lemon.png": "/restaurant_website/static/media/lemon.d4cae6fac8384c2dae04.png",
+    "index.html": "/restaurant_website/index.html",
+    "main.1ac7585a.js.map": "/restaurant_website/static/js/main.1ac7585a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ac7585a.js"
+  ]
+}
